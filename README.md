@@ -70,7 +70,7 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedrohenriquebraga&show_icons=true" alt="ThauanRodriguesDev"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=ThauanRodriguesDev&show_icons=true" alt="ThauanRodriguesDev"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanRodriguesDev" />
 
 ###
